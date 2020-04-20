@@ -1,5 +1,9 @@
 class Dog 
   
   def .name= (dog_name)
-    @th
+    @this_dog_name = dog_name 
+  end
+  
+  def .name
+    puts 
 end 
